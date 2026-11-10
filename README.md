@@ -1,2 +1,2 @@
 # git-practice
-Learning Git and GitHub for interview preparation
+I am learning Git and GitHub practically.
